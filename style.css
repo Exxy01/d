@@ -1,0 +1,31 @@
+h1,p{
+    background-color:aqua;
+    width:50%;
+    border-radius:20px;
+}
+p{
+    font-size:20px;
+}
+h1{
+    letter-spacing:1px;
+    font-family:"Brush Script MT"
+}
+h2{
+    color:red;
+    background-color:aqua;
+    width:10%;
+    border-radius:20px;
+}
+canvas{
+    box-shadow:5px,5px grey;
+    border-radius:20px;
+    margin-top:50px;
+}
+#song{
+    color:red;
+    margin-bottom:20px;
+    
+}
+canvas{
+    border-radius:300px;
+}
